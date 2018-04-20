@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "wet=false": [ { "model": "sponge" },
+				{ "model": "sponge_r90" },
+				{ "model": "sponge_r180" },
+				{ "model": "sponge_r270" } ],
+        "wet=true": [ { "model": "sponge_wet" },
+				{ "model": "sponge_wet_r90" },
+				{ "model": "sponge_wet_r180" },
+				{ "model": "sponge_wet_r270" } ]
+    }
+}

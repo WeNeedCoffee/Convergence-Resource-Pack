@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "normal": [ { "model": "gravel" },
+			{ "model": "gravel_r90" },
+			{ "model": "gravel_r180" },
+			{ "model": "gravel_r270" },
+			{ "model": "gravel_mirrored" },
+			{ "model": "gravel_r90_mirrored" },
+			{ "model": "gravel_r180_mirrored" },
+			{ "model": "gravel_r270_mirrored" } ]
+    }
+}
