@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "normal": [ { "model": "slime" },
-			{ "model": "slime_r90" },
-			{ "model": "slime_r180" },
-			{ "model": "slime_r270" } ]
-    }
-}
